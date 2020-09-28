@@ -1,0 +1,25 @@
+.heading{
+    position: relative;
+    width: 100%;
+    text-align: center;
+    padding-top: 30px;
+}
+.heading h1{
+    font-size: 42px;
+    word-spacing: 2px;
+    margin-bottom: 10px;
+}
+.heading h1 b{
+    font-size: 50px;
+}
+.heading p{
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+.heading hr{
+    position: relative;
+    width: 80%;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
